@@ -1,0 +1,27 @@
+{
+  "name": "root-package",
+  "version": "1.0.0",
+  "description": "Simple module helps you access your application's root path from anywhere in the application without resorting to relative paths like require(\"../../path\").",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/einfach-media/root-package.git"
+  },
+  "keywords": [
+    "Root-Package",
+    "Application's root path",
+    "App root folder",
+    "folder",
+    "root",
+    "path"
+  ],
+  "author": "Simon Marcel Linden",
+  "license": "ISC",
+  "bugs": {
+  "url": "https://github.com/einfach-media/root-package/issues"
+},
+  "homepage": "https://github.com/einfach-media/root-package#readme"
+}
